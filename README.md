@@ -3,7 +3,7 @@ A React/JS-based Slot Expert App recreating the classic slot machine games from 
 <h2>About This Project</h2>
 <p>This repository contains the more basic source code for a classic slot machine application built with React/JavaScript, inspired by the iconic Pachinko slot games from the 1990s arcade.</p>
 <h2>Get the Complete Version</h2>
-<p>If you need a full development and more nice experience this app is available as complete package edition on Itch.io with:</p>
+<p>If you need the full development and one nice experience this app is available as complete package edition on <a href="https://darky-dev.itch.io/slot-machine-pachi-casino-v02-alpha-react">Itch.io</a>:</p>
 
 ```diff
 + All dependencies included (Get --UPDATES in progress for the next versions!).
