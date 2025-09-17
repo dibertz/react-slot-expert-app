@@ -1,3 +1,29 @@
+# Pachi Slot Expert App
+A React/JS-based Slot Expert App recreating the classic slot machine games from the 1990s.
+<h2>About This Project</h2>
+<p>This repository contains the more basic source code for a classic slot machine application built with React/JavaScript, inspired by the iconic Pachinko slot games from the 1990s arcade.</p>
+<h2>Get the Complete Version</h2>
+<p>If you need a full development and more nice experience this app is available as complete package edition on Itch.io with:</p>
+
+```diff
++ All dependencies included (Get --UPDATES in progress for the next versions!).
++ Complete open source project (Full access to source code Alpha, Beta and Release).
++ Production ready BUILD (Ready for deployment on the Web).
++ Comprehensive documentation, with setup guides and API docs.
++ Custom support by Dibertz Production -> Get help when you need it!..
+- Those who have already purchased on Itch.io the initial version of this project will not have to pay more anything for the next feature and updates.
+```
+
+<h2>Version Updates in Development</h2>
+<p>This GitHub repository provides the more basic structure and it core functionality. For the complete development experience with all features, dependencies, and documentation, consider purchasing the full package.</p>
+
+<h2>Licensed Under MIT</h2>
+
+<p><address>Developed by Dibertz Soft - Conectividad S.A. Buenos Aires, Argentina</address></p>
+<br>
+<p><a href='https://www.paypal.com/donate/?hosted_button_id=EWDLXT7WUVYZ2' target='_blank'><img src='https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif' border='0' alt='Donate with PayPal button'/></a></p>
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
